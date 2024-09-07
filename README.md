@@ -4,6 +4,8 @@
 
 Este proyecto es un ejemplo de cómo integrar Tiled con un estado de máquina utilizando Phaser y Vite. Proporciona una plantilla básica que puedes usar como punto de partida para desarrollar tus propios juegos o aplicaciones interactivas.
 
+Esta basado en este repositorio de [ejemplo en TypeScript](https://github.com/ourcade/sidescrolling-platformer-template-phaser3/tree/master) que cuenta con el siguiente [tutorial](https://www.youtube.com/playlist?list=PLNwtXgWIx3rg3J4XyuDVhjU81dZbJtVAU).
+
 ### Características
 
 - **Phaser 3.85.1**: Utiliza la última versión de Phaser, un popular framework de desarrollo de juegos en HTML5.
